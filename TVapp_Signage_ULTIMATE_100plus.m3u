@@ -1,0 +1,195 @@
+#EXTM3U
+# TVapp Signage ULTIMATE — 100+ fuentes públicas/gratuitas
+# Categorías: Anime, RD/Latino, Deportes, Películas, Música, Noticias, Infantil,
+# Documentales, Cultura, Entretenimiento y Ciencia.
+# IMPORTANTE: "público" no equivale automáticamente a licencia de redistribución.
+# Verifica los derechos de cada señal si la lista se usará comercialmente.
+
+# ===== ANIME — FUENTE OFICIAL/FAST =====
+#EXTINF:-1 group-title="Anime",Pluto TV Anime
+https://jmp2.uk/plu-608181d420fc8500075f612a.m3u8
+#EXTINF:-1 group-title="Anime",ANIME x HIDIVE
+https://jmp2.uk/plu-6793eaa4bc03978b9bc63db1.m3u8
+#EXTINF:-1 group-title="Anime",Pluto TV Anime Movies
+https://jmp2.uk/plu-67ed8f7e443f0671bc2b2368.m3u8
+#EXTINF:-1 group-title="Anime",Inuyasha
+https://jmp2.uk/plu-67c63b90a20c0399a381b816.m3u8
+#EXTINF:-1 group-title="Anime",One Piece
+https://jmp2.uk/plu-69affcad8940750a23a7231a.m3u8
+#EXTINF:-1 group-title="Anime",Naruto
+https://jmp2.uk/plu-5da0c85bd2c9c10009370984.m3u8
+#EXTINF:-1 group-title="Anime",Yu-Gi-Oh!
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",HUNTER x HUNTER
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",One-Punch Man
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",Sailor Moon
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",JoJo's Bizarre Adventure
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",Death Note
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",Boruto
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",Yu-Gi-Oh! GX
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+#EXTINF:-1 group-title="Anime",Yu-Gi-Oh! 5D's
+https://jmp2.uk/plu-5f4ec10ed9636f00089b8c89.m3u8
+
+# ===== REPÚBLICA DOMINICANA / LATINO — PLAYLISTS PÚBLICAS =====
+# Estas entradas son playlists públicas por país, no señales individuales.
+# Verifica derechos de redistribución antes de uso comercial.
+#EXTINF:-1 group-title="República Dominicana",🇩🇴 República Dominicana — IPTV pública
+https://iptv-org.github.io/iptv/countries/do.m3u
+#EXTINF:-1 group-title="República Dominicana",🇩🇴 Distrito Nacional — IPTV pública
+https://iptv-org.github.io/iptv/subdivisions/do-01.m3u
+#EXTINF:-1 group-title="República Dominicana",🇩🇴 Cibao Sur — IPTV pública
+https://iptv-org.github.io/iptv/subdivisions/do-36.m3u
+#EXTINF:-1 group-title="República Dominicana",🇩🇴 Cibao Norte — IPTV pública
+https://iptv-org.github.io/iptv/subdivisions/do-35.m3u
+#EXTINF:-1 group-title="República Dominicana",🇩🇴 Cibao Noroeste — IPTV pública
+https://iptv-org.github.io/iptv/subdivisions/do-34.m3u
+#EXTINF:-1 group-title="Latinoamérica",🌎 Latinoamérica — IPTV pública
+https://iptv-org.github.io/iptv/countries/latam.m3u
+#EXTINF:-1 group-title="Latinoamérica",🇲🇽 México — IPTV pública
+https://iptv-org.github.io/iptv/countries/mx.m3u
+#EXTINF:-1 group-title="Latinoamérica",🇵🇷 Puerto Rico — IPTV pública
+https://iptv-org.github.io/iptv/countries/pr.m3u
+#EXTINF:-1 group-title="Latinoamérica",🇨🇴 Colombia — IPTV pública
+https://iptv-org.github.io/iptv/countries/co.m3u
+#EXTINF:-1 group-title="Latinoamérica",🇦🇷 Argentina — IPTV pública
+https://iptv-org.github.io/iptv/countries/ar.m3u
+#EXTINF:-1 group-title="Latinoamérica",🇨🇱 Chile — IPTV pública
+https://iptv-org.github.io/iptv/countries/cl.m3u
+#EXTINF:-1 group-title="Latinoamérica",🇪🇸 España — IPTV pública
+https://iptv-org.github.io/iptv/countries/es.m3u
+
+# ===== DEPORTES =====
+#EXTINF:-1 group-title="Deportes",PFL MMA
+https://jmp2.uk/plu-6334a574605f140007e233c4.m3u8
+#EXTINF:-1 group-title="Deportes",PGA TOUR
+https://jmp2.uk/plu-5de94dacb394a300099fa22a.m3u8
+#EXTINF:-1 group-title="Deportes",Bellator MMA
+https://jmp2.uk/plu-5ebc8688f3697d00072f7cf8.m3u8
+#EXTINF:-1 group-title="Deportes",Outside TV
+https://outsidetv-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Stadium
+https://stadium-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Fubo Sports Network
+https://fubosports-plex.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Racing America
+https://racingamerica-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Deportes",Women's Sports Network
+https://womenssportsnetwork-samsungus.amagi.tv/playlist.m3u8
+
+# ===== PELÍCULAS =====
+#EXTINF:-1 group-title="Películas",Pluto TV Action
+https://jmp2.uk/plu-561d7d484dc7c8770484914a.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Horror
+https://jmp2.uk/plu-569546031a619b8f07ce6e25.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Hometown Drama
+https://jmp2.uk/plu-69d6c7befde57cd5ba0160c3.m3u8
+#EXTINF:-1 group-title="Películas",Battlestar Galactica
+https://jmp2.uk/plu-69d7ebff029c431826bd328e.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Movies
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Cult Films
+https://jmp2.uk/plu-5c5c3b948002db3c3e0b262e.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Comedy
+https://jmp2.uk/plu-5f8eb91bb9b9e7000817e67f.m3u8
+#EXTINF:-1 group-title="Películas",Pluto TV Classic Movies
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+# ===== MÚSICA =====
+#EXTINF:-1 group-title="Música",California Music Channel
+https://cmc-ono.amagi.tv/hls/amagi_hls_data_cmcAAAAAA-cmc-ono/CDN/playlist.m3u8
+#EXTINF:-1 group-title="Música",MTV Music Made in Spain
+https://jmp2.uk/plu-60a26a056d55b30007918d5a.m3u8
+#EXTINF:-1 group-title="Música",MTV Classic
+https://jmp2.uk/plu-654100b4bdf3cf0008aa49c7.m3u8
+#EXTINF:-1 group-title="Música",Pluto TV Love Songs
+https://jmp2.uk/plu-619b80acac5329000740c022.m3u8
+#EXTINF:-1 group-title="Música Latina",Pluto TV MTV Latino
+https://jmp2.uk/plu-5cf96d351652631e36d4331f.m3u8
+#EXTINF:-1 group-title="Música",Vevo Pop
+https://vevo-pop-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Música",Vevo Hip-Hop
+https://vevo-hiphop-samsungus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Música",Vevo Country
+https://vevo-country-samsungus.amagi.tv/playlist.m3u8
+
+# ===== NOTICIAS =====
+#EXTINF:-1 group-title="Noticias",ABC News Live
+https://abcnews-streams.akamaized.net/hls/live/2023560/abcnewshudson1/master.m3u8
+#EXTINF:-1 group-title="Noticias",CBS News
+https://cbsnews.akamaized.net/hls/live/2020607/cbsnlineup_8/master.m3u8
+#EXTINF:-1 group-title="Noticias",NBC News NOW
+https://d1bl6tskrpq9ze.cloudfront.net/hls/master.m3u8
+#EXTINF:-1 group-title="Noticias",Bloomberg TV
+https://bloomberg-bloomberg-3-br.samsung.wurl.tv/manifest/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",Reuters TV
+https://reuters-reutersnow-1-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="Noticias",BBC News North America
+https://jmp2.uk/plu-65d92a8c8b24c80008e285c0.m3u8
+#EXTINF:-1 group-title="Noticias",DW English
+http://dwstream4-lh.akamaihd.net/i/dwstream4_live@131329/master.m3u8
+#EXTINF:-1 group-title="Noticias",France 24 English
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+
+# ===== INFANTIL / FAMILIAR =====
+#EXTINF:-1 group-title="Infantil",PBS Kids
+https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est_124.m3u8
+#EXTINF:-1 group-title="Infantil",LEGO Channel
+https://legochannel-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infantil",Moonbug Kids
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="Infantil",Pluto TV Kids Gaming
+https://jmp2.uk/plu-611e6ddc7fcd580007d1eb5f.m3u8
+#EXTINF:-1 group-title="Infantil",Nick Clásico
+https://jmp2.uk/plu-5ddd7c348520b40009c347e2.m3u8
+
+# ===== DOCUMENTALES / NATURALEZA =====
+#EXTINF:-1 group-title="Documentales",BBC Earth
+https://jmp2.uk/plu-656535fc2c46f30008870fae.m3u8
+#EXTINF:-1 group-title="Documentales",Pluto TV Nature
+https://jmp2.uk/plu-5be1c3f9851dd5632e2c91b2.m3u8
+#EXTINF:-1 group-title="Aventura",Pluto TV Adventure
+https://jmp2.uk/plu-69d7ebb726eeec84158e28cb.m3u8
+#EXTINF:-1 group-title="Historia",Pluto TV History
+https://jmp2.uk/plu-5a4d35dfa5c02e717a234f86.m3u8
+
+# ===== ENTRETENIMIENTO / COMEDIA =====
+#EXTINF:-1 group-title="Entretenimiento",Deal or No Deal
+https://jmp2.uk/plu-5e9debf8c881310007d7bde1.m3u8
+#EXTINF:-1 group-title="Entretenimiento",Bar Rescue
+https://jmp2.uk/plu-60a3d889a5b3690008dc7fe8.m3u8
+#EXTINF:-1 group-title="Comedia",Always Funny
+https://jmp2.uk/plu-69eaa34817801c84fca05d94.m3u8
+#EXTINF:-1 group-title="Series",I Love Lucy
+https://jmp2.uk/plu-634f3011f4fff20007431641.m3u8
+#EXTINF:-1 group-title="Series",Degrassi
+https://jmp2.uk/plu-5c6eeb85c05dfc257e5a50c4.m3u8
+#EXTINF:-1 group-title="Series",iCarly TV
+https://jmp2.uk/plu-6450209d939a5900084dba1d.m3u8
+
+# ===== CIENCIA / ESPACIO =====
+#EXTINF:-1 group-title="Ciencia y Espacio",NASA TV Public
+https://ntv1.akamaized.net/hls/live/2014075/NASA-NTV1-HLS/master_2000.m3u8
+#EXTINF:-1 group-title="Ciencia y Espacio",NASA TV Media
+https://ntv2.akamaized.net/hls/live/2014080/NASA-NTV2-HLS/master_2000.m3u8
+
+# ===== PLAYLISTS DE CATEGORÍAS PÚBLICAS =====
+# Estas agregan muchas más señales automáticamente. Verifica derechos de cada canal.
+#EXTINF:-1 group-title="Extra — Anime/Animación",IPTV-org Animation — playlist
+https://iptv-org.github.io/iptv/categories/animation.m3u
+#EXTINF:-1 group-title="Extra — Películas",IPTV-org Movies — playlist
+https://iptv-org.github.io/iptv/categories/movies.m3u
+#EXTINF:-1 group-title="Extra — Música",IPTV-org Music — playlist
+https://iptv-org.github.io/iptv/categories/music.m3u
+#EXTINF:-1 group-title="Extra — Deportes",IPTV-org Sports — playlist
+https://iptv-org.github.io/iptv/categories/sports.m3u
+#EXTINF:-1 group-title="Extra — Noticias",IPTV-org News — playlist
+https://iptv-org.github.io/iptv/categories/news.m3u
+#EXTINF:-1 group-title="Extra — Entretenimiento",IPTV-org Entertainment — playlist
+https://iptv-org.github.io/iptv/categories/entertainment.m3u
